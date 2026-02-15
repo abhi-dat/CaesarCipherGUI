@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.util.Scanner;
 public class Main {
     public static String encrypt(String text, int shift) {
         StringBuilder result = new StringBuilder();
